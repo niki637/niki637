@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @niki63
+- 👀 I’m interested in app development 
+- 🌱 I’m currently a computer science engineering student
